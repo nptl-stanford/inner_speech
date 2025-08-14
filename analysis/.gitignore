@@ -1,0 +1,7 @@
+Derived/
+Data/
+*.DS_Store
+*.mp3
+*__pycache__*
+*.tex
+*.log
